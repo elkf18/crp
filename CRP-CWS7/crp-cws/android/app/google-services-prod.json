@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509823947084",
+    "project_id": "jokopi-c99b6",
+    "storage_bucket": "jokopi-c99b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509823947084:android:5c5412586fb17e3f5dbfe9",
+        "android_client_info": {
+          "package_name": "com.kelava.jokopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOis0Cj0WUH8W-Kt7imqrVUjy3GTUF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

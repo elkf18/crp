@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "kode": "S1-SBUX-0098",
+        "tanggal": "11 Sep 2022 - 15:30",
+        "point": 900,
+        "coupon": "90",
+        "statusCoupon" : "-"
+    },
+     {
+        "id":"2",
+        "kode": "S1-SBUX-0097",
+        "tanggal": "11 Sep 2022 - 15:30",
+        "point": 100,
+        "coupon": "10",
+        "statusCoupon" : "+"
+    },
+    {
+        "id":"2",
+        "kode": "S1-SBUX-0097",
+        "tanggal": "11 Sep 2022 - 15:30",
+        "point": 100,
+        "coupon": "10",
+        "statusCoupon" : "+"
+    }
+]

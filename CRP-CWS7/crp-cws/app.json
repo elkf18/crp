@@ -1,0 +1,27 @@
+{
+  "name": "jokopi",
+  "displayName": "- JOKOPI -",
+  "expo": {
+    "name": "- JOKOPI -",
+    "slug": "jokopi",
+    "version": "0.0.1",
+    "ios": {
+      "bundleIdentifier": "org.reactjs.native.example.jokopi",
+      "buildNumber": "1",
+      "infoPlist": {
+        "NSCameraUsageDescription": "To capture booking confirmation.",
+        "NSPhotoLibraryUsageDescription": "To choose booking confirmation from existing photos."
+      }
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.kelava.jokopi.dev",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyD-6dn4tHXYdHJNZLGmQvvNSgL4elJPGSY"
+        }
+      }
+    },
+    "description": ""
+  }
+}

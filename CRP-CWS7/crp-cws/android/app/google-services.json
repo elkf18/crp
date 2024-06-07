@@ -1,0 +1,269 @@
+{
+  "project_info": {
+    "project_number": "509823947084",
+    "project_id": "jokopi-c99b6",
+    "storage_bucket": "jokopi-c99b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509823947084:android:bb8d74a84b256e275dbfe9",
+        "android_client_info": {
+          "package_name": "com.kelava.aiola.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOis0Cj0WUH8W-Kt7imqrVUjy3GTUF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509823947084-kkmof836nqjr98jbf9gp6626gvkhkv9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelava.jokopi.dev",
+                "app_store_id": "6443406408"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509823947084:android:3f74c87ae0f38a945dbfe9",
+        "android_client_info": {
+          "package_name": "com.kelava.crp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOis0Cj0WUH8W-Kt7imqrVUjy3GTUF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509823947084-kkmof836nqjr98jbf9gp6626gvkhkv9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelava.jokopi.dev",
+                "app_store_id": "6443406408"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509823947084:android:d83f242f7b1cde455dbfe9",
+        "android_client_info": {
+          "package_name": "com.kelava.crp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOis0Cj0WUH8W-Kt7imqrVUjy3GTUF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509823947084-kkmof836nqjr98jbf9gp6626gvkhkv9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelava.jokopi.dev",
+                "app_store_id": "6443406408"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509823947084:android:d7993f96509319ca5dbfe9",
+        "android_client_info": {
+          "package_name": "com.kelava.crp.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOis0Cj0WUH8W-Kt7imqrVUjy3GTUF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509823947084-kkmof836nqjr98jbf9gp6626gvkhkv9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelava.jokopi.dev",
+                "app_store_id": "6443406408"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509823947084:android:826789c96d4cead25dbfe9",
+        "android_client_info": {
+          "package_name": "com.kelava.cws.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOis0Cj0WUH8W-Kt7imqrVUjy3GTUF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509823947084-kkmof836nqjr98jbf9gp6626gvkhkv9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelava.jokopi.dev",
+                "app_store_id": "6443406408"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509823947084:android:5c5412586fb17e3f5dbfe9",
+        "android_client_info": {
+          "package_name": "com.kelava.jokopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOis0Cj0WUH8W-Kt7imqrVUjy3GTUF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509823947084-kkmof836nqjr98jbf9gp6626gvkhkv9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelava.jokopi.dev",
+                "app_store_id": "6443406408"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509823947084:android:34d6ff0b72b6b9dd5dbfe9",
+        "android_client_info": {
+          "package_name": "com.kelava.jokopi.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOis0Cj0WUH8W-Kt7imqrVUjy3GTUF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509823947084-pjpgfpc05u1jvv1771hanfivas50j5lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509823947084-kkmof836nqjr98jbf9gp6626gvkhkv9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelava.jokopi.dev",
+                "app_store_id": "6443406408"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
